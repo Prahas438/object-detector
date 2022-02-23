@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    color:white;
+    background-size: cover;
+  background-position: center;
+}
+a{
+    width:400px;
+    border-radius:50px !important;
+}
